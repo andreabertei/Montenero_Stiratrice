@@ -1,5 +1,13 @@
 # Montenero_Stiratrice  
 
+V 1.04  
+18/07/2022  
+*Corretto ritardo chiusura sagome che non avveniva correttamente  
+
+
+----------------------  
+
+
 V 1.03  
 08/07/2022  
 *Modificato funzionamento pistone, ora è normalmente chiuso e rimane su sempre   
