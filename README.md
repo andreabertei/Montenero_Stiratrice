@@ -1,5 +1,11 @@
 # Montenero_Stiratrice  
 
+V 1.05  
+27/07/2022  
+*Aggiunta pulsantiera per muovere manualmente le sagome, se abilitato da ricetta si bypassa il pedale sagome e si va solo con pedale avanzamento  
+*Aggiunto counter pezzi parziali e totali  
+*Aggiornato sinottico con nuove info  
+
 V 1.04  
 18/07/2022  
 *Corretto ritardo chiusura sagome che non avveniva correttamente  
